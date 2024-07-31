@@ -16,8 +16,9 @@ This repository hosts a React application configured for deployment on Firebase,
    ```bash
    git clone https://github.com/Ranimmmmm/Deployment-with-firebase.git
    cd Deployment-with-firebase
-2.Install dependencies and start the server:
+2. Install dependencies and start the server:
  ```bash
-npm install
-npm start
-3.Open http://localhost:3000 to see the app.
+   npm install
+   npm start
+
+3. Open http://localhost:3000 to see the app.
